@@ -1,6 +1,0 @@
-{
-  "routes": [
-    { "src": "/la-grand-vallette", "dest": "/la-grand-vallette/index.html" },
-    { "src": "/la-petit-vallette", "dest": "/la-petit-vallette/index.html" }
-  ]
-}
