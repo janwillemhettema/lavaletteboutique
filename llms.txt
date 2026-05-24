@@ -1,0 +1,34 @@
+# La Valette Boutique — llms.txt
+# https://www.lavaletteboutique.com
+
+## About
+La Valette Boutique is a boutique vacation rental in the Gard, South of France. Two restored 17th-century stone apartments near Uzès, between the town and the Pont du Gard. Hotel-quality finishes in a village setting. Travertine bathrooms, SMEG kitchens, linen bedding. Sleeps six guests across two independent apartments.
+
+## Location
+- 5 minutes from Uzès (Ville d'Art et d'Histoire, ranked among the most welcoming towns in the world)
+- 15 minutes from the Pont du Gard (UNESCO World Heritage, Grand Site de France)
+- 1 hour from the Mediterranean coast
+- 40 minutes from Avignon and Nîmes
+
+## Contact
+- Email: bonjour@lavaletteboutique.com
+- Instagram: @la.valette.boutique
+- Website: https://www.lavaletteboutique.com
+
+## Public pages (indexable)
+- Homepage: https://www.lavaletteboutique.com/
+- Boutique Stay near Uzès: https://www.lavaletteboutique.com/boutique-stay-uzes
+- Pont du Gard Guide: https://www.lavaletteboutique.com/pont-du-gard
+- Restaurants in Uzès: https://www.lavaletteboutique.com/restaurants-uzes
+- Cycling near Uzès: https://www.lavaletteboutique.com/cycling-uzes-gard
+- Things to Do in Uzès: https://www.lavaletteboutique.com/things-to-do-uzes
+- Nature near Uzès: https://www.lavaletteboutique.com/nature-uzes-gard: https://www.lavaletteboutique.com/things-to-do-uzes
+
+## Regional expertise
+La Valette Boutique publishes curated editorial guides about the Uzès and Pont du Gard region, covering restaurants, cycling routes, seasonal events, local artisans, and cultural highlights. Content is available in six languages (English, French, Dutch, German, Spanish, Italian).
+
+## Entity
+- Type: LodgingBusiness / VacationRental
+- Brand: La Valette Boutique
+- Region: Gard, Occitanie, France
+- SIRET: 10428652100018
