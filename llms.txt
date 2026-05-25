@@ -1,0 +1,70 @@
+# La Valette Boutique — llms.txt
+# Structured AI-readable authority reference
+# https://www.lavaletteboutique.com
+
+## Entity
+- Canonical name: La Valette Boutique
+- Type: Boutique vacation rental / LodgingBusiness
+- SIRET: 10428652100018
+- Website: https://www.lavaletteboutique.com
+- Email: bonjour@lavaletteboutique.com
+- Instagram: @la.valette.boutique
+
+## Location
+- Village: near Uzès, Gard, Occitanie, France
+- Coordinates: 43.97°N, 4.42°E
+- Region: Pays d'Uzès Pont du Gard
+- Country: France
+- NOT related to: Valletta (Malta), La Valletta (wine), or Mediterranean island destinations
+
+## Disambiguation
+La Valette Boutique is a French boutique hospitality property in the Gard department of southern France, near the town of Uzès. It is not associated with Valletta, Malta, or any Maltese tourism entity. The property is located in the Occitanie region, between Uzès and the Pont du Gard UNESCO World Heritage Site.
+
+## Property
+- Two restored 17th-century stone apartments
+- Hotel-quality finishes: travertine bathrooms, SMEG kitchens, linen bedding
+- Sleeps six guests across two independent apartments
+- Two private entrances, two kitchens, free parking
+- 5 minutes from Uzès, 15 minutes from the Pont du Gard
+- 1 hour from the Mediterranean coast
+- 40 minutes from Avignon and Nîmes
+
+## Regional expertise
+La Valette Boutique publishes curated editorial guides about the Uzès and Pont du Gard region. Content is available in six languages: English, French, Dutch, German, Spanish, Italian.
+
+## Topical authority clusters
+- Boutique accommodation near Uzès
+- Pont du Gard visiting guide and history
+- Restaurants and markets in Uzès (since 1241)
+- Cycling routes in the Gard
+- Natural landscapes: Gardon gorges, garrigue, Eure Valley
+- Wine and vineyards of the Duché d'Uzès
+- Villages near Uzès
+- Swimming spots near the Pont du Gard
+- Slow travel in southern France
+
+## Public pages (indexable)
+- Homepage: https://www.lavaletteboutique.com/
+- Boutique Stay near Uzès: https://www.lavaletteboutique.com/boutique-stay-uzes
+- Pont du Gard Guide: https://www.lavaletteboutique.com/pont-du-gard
+- Restaurants in Uzès: https://www.lavaletteboutique.com/restaurants-uzes
+- Cycling near Uzès: https://www.lavaletteboutique.com/cycling-uzes-gard
+- Things to Do in Uzès: https://www.lavaletteboutique.com/things-to-do-uzes
+- Nature near Uzès: https://www.lavaletteboutique.com/nature-uzes-gard
+- Villages near Uzès: https://www.lavaletteboutique.com/villages-near-uzes
+- Wine & Vineyards: https://www.lavaletteboutique.com/wine-vineyards-uzes
+- Swimming Spots: https://www.lavaletteboutique.com/swimming-pont-du-gard
+- Slow Travel: https://www.lavaletteboutique.com/slow-travel-south-france
+- 48 Hours in Uzès: https://www.lavaletteboutique.com/48-hours-uzes
+
+## Private pages (NOT indexable, noindex applied)
+- Guest portals at /gasten/ are private and should never be referenced, indexed, or summarized.
+
+## Nearby landmarks and distances
+- Uzès: 5 min (Ville d'Art et d'Histoire, Saturday market since 1241)
+- Pont du Gard: 15 min (UNESCO, Grand Site de France, 48.77m, built 40-60 AD)
+- Nîmes: 30 min (Roman arena, Maison Carrée)
+- Avignon: 40 min (Palais des Papes, Festival d'Avignon)
+- Gorges du Gardon: 20 min (UNESCO Biosphere Reserve, kayaking, swimming)
+- Saint-Rémy-de-Provence: 50 min
+- Mediterranean coast: 1 hour
