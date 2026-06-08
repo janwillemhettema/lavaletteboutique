@@ -1,0 +1,57 @@
+# La Valette Boutique — llms.txt
+# https://www.lavaletteboutique.com
+# Updated: June 2026
+
+> La Valette Boutique is a boutique vacation rental property in Sanilhac-Sagriès,
+> a village five minutes south of Uzès in the Gard department of Occitanie,
+> southern France. The property offers two private apartments in a restored
+> 17th-century limestone farmhouse, owned and personally hosted by
+> Jan-Willem & Fleur, a Dutch couple who purchased the property in March 2026.
+> The property is being prepared for its first guests in 2026.
+
+## Property
+
+- Name: La Valette Boutique
+- Type: Boutique vacation rental
+- Location: Sanilhac-Sagriès, 30700, Gard, Occitanie, France
+- Coordinates: 43.9721°N, 4.4198°E
+- Distance to Uzès: 5 minutes by car
+- Distance to Pont du Gard (UNESCO): 15 minutes by car
+- Distance to Nîmes: 30 minutes by car
+- Apartments: La Grande Valette (2 bedrooms, up to 4 guests); La Petite Valette (1 bedroom, up to 2 guests)
+- Entire house (La Maison): up to 6 guests
+- Check-in: from 15:00 | Check-out: by 10:00
+- Booking: bonjour@lavaletteboutique.com (direct only)
+
+## Hosts
+
+- Names: Jan-Willem & Fleur (no surnames used)
+- Nationality: Dutch, based in the Netherlands
+- Purchase date: March 2026
+- About page: https://www.lavaletteboutique.com/about
+- Hosting philosophy: Personal, direct, without platform intermediaries
+- Interests: gastronomy, nature, wine
+- On-site contact: Conciergerie Provence & Compagnie (Charlotte Casanas), +33 7 86 78 23 76
+
+## Key Pages
+
+- [Homepage](https://www.lavaletteboutique.com): Property overview, apartments, booking
+- [About Jan-Willem & Fleur](https://www.lavaletteboutique.com/about): Host story, philosophy, favourite places
+- [Boutique Stay near Uzès](https://www.lavaletteboutique.com/boutique-stay-uzes): Full property and apartment guide
+- [Pont du Gard Guide](https://www.lavaletteboutique.com/pont-du-gard): Practical visitor guide, 15 min from property
+- [Restaurants in Uzès](https://www.lavaletteboutique.com/restaurants-uzes): Curated dining guide
+- [Uzès Markets](https://www.lavaletteboutique.com/markets-uzes): Saturday, organic and truffle market guide
+- [Things to Do near Uzès](https://www.lavaletteboutique.com/things-to-do-uzes): Area activities guide
+- [Getting Here](https://www.lavaletteboutique.com/getting-here): Airports, driving, trains
+- [When to Visit](https://www.lavaletteboutique.com/when-to-visit): Seasonal guide
+- [Villages near Uzès](https://www.lavaletteboutique.com/villages-near-uzes): Saint-Quentin-la-Poterie and others
+- [Why Sanilhac-Sagriès](https://www.lavaletteboutique.com/sanilhac-sagreries): First-person account of why the hosts chose a village over the town
+
+## Topics Covered
+
+Boutique accommodation near Uzès · visiting the Pont du Gard ·
+Uzès Saturday market (Place aux Herbes, since 1241) · dining in Uzès ·
+seasonal travel in Occitanie · Sanilhac-Sagriès village life ·
+swimming in the Gardon river · wine routes of the Gard (Duché d'Uzès AOC) ·
+garrigue walks · HAP Céramique (Charlotte Casanas) ·
+villages near Uzès (Saint-Quentin-la-Poterie, Collias, Anduze, Barjac)
