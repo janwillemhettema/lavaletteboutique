@@ -492,6 +492,7 @@ We strongly recommend travel insurance to cover unforeseen circumstances.</p>
 })();
 </script>
 
+  
 <script>(function(){var nav=document.querySelector('nav');if(!nav)return;var LIGHT='.hosts, .events-sec, .faq-sec';var hasLight=!!document.querySelector(LIGHT);var raf,lastP=-1,lastL=null;function tick(){raf=null;var y=window.scrollY||0;var p=Math.min(y/700,1);p=p*p*(3-2*p);if(Math.abs(p-lastP)>0.004){nav.style.setProperty('--np',p.toFixed(3));lastP=p;}
 if(hasLight){var r=nav.getBoundingClientRect();var light=false;try{var els=document.elementsFromPoint(window.innerWidth/2,r.bottom+6);for(var i=0;i<els.length;i++){var e=els[i];if(!e||!e.matches)continue;if(e.tagName==='NAV'||e.tagName==='HTML')continue;if(e.matches(LIGHT)||(e.closest&&e.closest(LIGHT))){light=true;break;}
 if(e.tagName==='BODY')break;}}catch(x){}
