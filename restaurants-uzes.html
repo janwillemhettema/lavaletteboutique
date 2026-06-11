@@ -686,12 +686,14 @@ document.addEventListener('keydown',function(e){
 
 <script>function toggleDrawer(){var d=document.getElementById('drawer'),b=document.getElementById('hamBtn');if(!d||!b)return;d.classList.toggle('on');b.classList.toggle('x');document.body.style.overflow=d.classList.contains('on')?'hidden':'';}</script>
 
+<script>
 // ── CONTENT PROTECTION ───────────────────────────────────────────
 document.addEventListener('contextmenu', function(e){ e.preventDefault(); });
 document.addEventListener('selectstart', function(e){ e.preventDefault(); });
 document.addEventListener('dragstart',   function(e){ e.preventDefault(); });
 document.addEventListener('copy',        function(e){ e.stopPropagation(); e.preventDefault(); });
 document.addEventListener('cut',         function(e){ e.stopPropagation(); e.preventDefault(); });
+</script>
 
 </body>
 </html>
